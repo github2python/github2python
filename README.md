@@ -1,9 +1,11 @@
+
+[![An image of @github2python's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/github2python)](https://holopin.io/@github2python)
+
 ### Hi there 👋
+
 
 <!--
 **github2python/github2python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![An image of @github2python's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/github2python)](https://holopin.io/@github2python)
 
 Here are some ideas to get you started:
 
