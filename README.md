@@ -11,15 +11,12 @@
       <img src="src/images/g_linkedin.png" alt="LinkedIn" style="width: 12%"/>
     </a>
     <img src="src/vectors/g_blank.svg" alt="Blank" style="width: 1%"/>
-    <a href="https://github.com/jindalujjwal0720" target="_blank">
+    <a href="https://github.com/github2python" target="_blank">
       <img src="src/images/g_github.png" alt="Github" style="width:12%;" />
     </a>
+    <img src="src/vectors/g_blank.svg" alt="Blank" style="width: 1%"/>   
     <img src="src/vectors/g_blank.svg" alt="Blank" style="width: 1%"/>
-    <a href="https://www.reddit.com/user/jindalujjwal0720" target="_blank">
-      <img src="src/images/g_reddit.png" alt="Reddit" style="width:12%;" />
-    </a>
-    <img src="src/vectors/g_blank.svg" alt="Blank" style="width: 1%"/>
-    <a href="https://twitter.com/jindalujjwal07" target="_blank">
+    <a href="https://x.com/starklite05" target="_blank">
       <img src="src/images/g_twitter.png" alt="X (Twitter)" style="width:12%;" />
     </a>
     <img src="src/vectors/g_blank.svg" alt="Blank" style="width: 1%"/>
