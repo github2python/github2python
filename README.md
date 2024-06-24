@@ -5,12 +5,9 @@
 
 <!--**github2python/github2python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<p align="center">
-    <a href="https://medium.com/@jindalujjwal0720" target="_blank">
-      <img src="src/images/g_medium.png" alt="Medium" style="width: 12%"/>
-    </a>
+<p align="center">   
     <img src="src/vectors/g_blank.svg" alt="Blank" style="width: 1%"/>
-    <a href="https://www.linkedin.com/in/jindalujjwal0720/" target="_blank">
+    <a href="https://www.linkedin.com/in/divyanshu-tyagi07604a224/" target="_blank">
       <img src="src/images/g_linkedin.png" alt="LinkedIn" style="width: 12%"/>
     </a>
     <img src="src/vectors/g_blank.svg" alt="Blank" style="width: 1%"/>
