@@ -41,10 +41,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/divyanshu-tyagi07604a224/" target="_blank">
-      <img src="src/images/g_copyright.png" alt="©Divyanshu Tyagi, 2024. All Rights Reserved."/>
-    </a>
-</p>
+
 
 
