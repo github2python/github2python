@@ -5,21 +5,7 @@
 
 <!--**github2python/github2python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<p align="center">   
-    <img src="src/vectors/g_blank.svg" alt="Blank" style="width: 1%"/>
-    <a href="https://www.linkedin.com/in/divyanshu-tyagi07604a224/" target="_blank">
-      <img src="src/images/g_linkedin.png" alt="LinkedIn" style="width: 12%"/>
-    </a>
-    <img src="src/vectors/g_blank.svg" alt="Blank" style="width: 1%"/>
-    <a href="https://github.com/github2python" target="_blank">
-      <img src="src/images/g_github.png" alt="Github" style="width:12%;" />
-    </a>
-    <img src="src/vectors/g_blank.svg" alt="Blank" style="width: 1%"/>   
-    <img src="src/vectors/g_blank.svg" alt="Blank" style="width: 1%"/>
-    <a href="https://x.com/starklite05" target="_blank">
-      <img src="src/images/g_twitter.png" alt="X (Twitter)" style="width:12%;" />
-    </a>    
-</p>
+
 
 ## About Me
 - Hey there! :smile: I'm a Divyanshu Tyagi. A `Full Stack Developer` 🚀 from India. 
@@ -47,17 +33,8 @@
 - ⚡ Goals: Solve problems and learn a lot.
 
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=github2python&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Saurabh Singh's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=github2python&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-<p align="center">
-    <a href="https://github.com/github2python?tab=repositories" target="_blank">
-      <img src="src/images/g_techstack.png" alt="Tech Stack" style="width: 65%"/>
-    </a>
-    <img src="src/vectors/g_blank.svg" alt="Blank" style="width: 1%"/>
-    <a href="mailto:divyanshu2002tyagi@gmail.com" target="_blank">
-      <img src="src/images/g_contact.png" alt="Contact Divyanshu Tyagi" style="width: 31%; height:50%;"/>
-    </a>
-</p>
+
+
 
 
 
